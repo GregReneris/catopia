@@ -1,5 +1,12 @@
 body {
 
-    background: green;
-    
+    background: blue;
+
+}
+
+#dog {
+
+    border-style:dotted;
+    border-color: white;
+    border-block-end: black;
 }
